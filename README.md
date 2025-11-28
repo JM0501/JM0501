@@ -37,7 +37,7 @@ Research project exploring unsupervised malware detection via binary code transl
 ---
 
 ## 🌍 Portfolio & Links  
-- Portfolio: https://jm0501.github.io/portfolioT 
+- Portfolio: https://tshepang.is-a.dev/
 - LinkedIn: https://www.linkedin.com/in/tshepang-mohlamonyane-b9b31826a  
 - GitHub: https://github.com/JM0501
 - Facebook: https://www.facebook.com/tshepang.mohlamonyane.33
