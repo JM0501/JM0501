@@ -34,17 +34,23 @@ Full-stack attendance and leave management system with mobile UI and Azure-hoste
 Research project exploring unsupervised malware detection via binary code translation and flow-adapter architecture.  
 **Tech:** Python, Data Analysis  
 
+### 🔹 FootyETL — ETL Pipeline 
+Cloud Data Engineering project, that simulate a real-world data engineering workflow and will later
+support analytics dashboards and reporting.  
+**Tech:** Python, API(external), MongoDB, RailwayAPI, pandas, requests.
+
 ---
 
 ## 🌍 Portfolio & Links  
 - Portfolio: https://tshepang.is-a.dev/
 - LinkedIn: https://www.linkedin.com/in/tshepang-mohlamonyane-b9b31826a  
 - GitHub: https://github.com/JM0501
-- Facebook: https://www.facebook.com/tshepang.mohlamonyane.33
+- Facebook: https://www.facebook.com/j4ym01/
 
 ---
 
 ## 📬 Contact  
 If you’d like to collaborate, discuss opportunities, or view more of my work, feel free to reach out:  
 📧 **tshepangjuniorm@gmail.com**
+📧 **j4ym-3@outlook.com**
 📱 **+27 825 587 566**
